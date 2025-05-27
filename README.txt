@@ -36,10 +36,3 @@ Scheduler Simulator:
         9. RR: Two programs always need to perform IO before being preempted by the scheduler
        10. RR: Six programs running to simulate how actual processors need to handle multiple long processes
     - To run the tests, please use the format './<.exe file from compilation> <inputdata file> <scheduler>
-
-Concurrent Processes:
-    - We were able to complete part A and we got a very good portion of part B done. Hence, we could not provide the part 2 reports.
-
-IMPORTANT NOTE: WHILE WE WERE ABLE TO RUN THE TEST CASES WITHOUT ISSUES, SOMETIMES IT WOULD TAKE MULTIPLE TRIES OF EXECUTING THE TEST 
-FILES BEFORE THE PROGRAM WOULD START. THIS IS NOT RELATED TO OUR CODE SO WE THINK THIS IS AN I/O BUG AND IT NEEDS TIME TO SETTLE I/O 
-PROCESSES.
