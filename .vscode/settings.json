@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "new": "cpp",
+        "vector": "cpp",
+        "fstream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "ctime": "cpp",
+        "cstdlib": "cpp",
+<<<<<<< HEAD
+        "thread": "cpp"
+=======
+        "*.tcc": "cpp",
+        "iomanip": "cpp"
+>>>>>>> FH
+    }
+}

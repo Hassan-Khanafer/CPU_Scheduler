@@ -1,0 +1,3 @@
+!# /bin/bash
+g++ interrupts_870_895.cpp -I ./ -o sim
+./sim input_data_1.txt FCFS

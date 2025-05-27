@@ -1,0 +1,5 @@
+#! /bin/bash
+
+g++ interrupts_HK_FH.cpp -I interrupts_HK_FH.hpp -o sim
+
+./sim trace_HK_FH.txt

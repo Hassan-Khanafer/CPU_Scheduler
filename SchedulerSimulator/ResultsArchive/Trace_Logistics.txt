@@ -1,0 +1,20 @@
+Trace<class '__main__.Trace'> CPU Usage Logistics:
+Total Overhead Time = 
+Total IO Time = 
+Ratio of Overhead Time to IO Time: 
+
+Trace<class '__main__.Trace'> CPU Usage Logistics:
+Total Overhead Time = 
+Total IO Time = 
+Ratio of Overhead Time to IO Time: 
+
+Trace<class '__main__.Trace'> CPU Usage Logistics:
+Total Overhead Time = 
+Total IO Time = 
+Ratio of Overhead Time to IO Time: 
+
+Trace<class '__main__.Trace'> CPU Usage Logistics:
+Total Overhead Time = 
+Total IO Time = 
+Ratio of Overhead Time to IO Time: 
+

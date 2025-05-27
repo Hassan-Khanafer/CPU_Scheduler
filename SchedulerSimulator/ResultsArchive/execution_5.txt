@@ -1,0 +1,37 @@
++------------------------------------------------------+
+| Time of Transition | PID |  Old State  |  New State  |
++------------------------------------------------------+
+|        0           |  15 |   NEW       |  READY      |
+|        0           |  15 |   READY     |  RUNNING    |
+|        10          |  12 |   NEW       |  READY      |
+|        11          |  15 |   RUNNING   |  WAITING    |
+|        11          |  12 |   READY     |  RUNNING    |
+|        14          |  15 |   WAITING   |  READY      |
+|        14          |  3  |   NEW       |  READY      |
+|        21          |  12 |   RUNNING   |  WAITING    |
+|        21          |  3  |   READY     |  RUNNING    |
+|        23          |  3  |   RUNNING   |  WAITING    |
+|        23          |  15 |   READY     |  RUNNING    |
+|        26          |  12 |   WAITING   |  READY      |
+|        33          |  3  |   WAITING   |  READY      |
+|        34          |  15 |   RUNNING   |  WAITING    |
+|        34          |  3  |   READY     |  RUNNING    |
+|        36          |  3  |   RUNNING   |  WAITING    |
+|        36          |  12 |   READY     |  RUNNING    |
+|        37          |  15 |   WAITING   |  READY      |
+|        46          |  3  |   WAITING   |  READY      |
+|        46          |  12 |   RUNNING   |  WAITING    |
+|        46          |  3  |   READY     |  RUNNING    |
+|        47          |  3  |   RUNNING   |  TERMINATED |
+|        47          |  15 |   READY     |  RUNNING    |
+|        50          |  15 |   RUNNING   |  TERMINATED |
+|        51          |  12 |   WAITING   |  READY      |
+|        51          |  12 |   READY     |  RUNNING    |
+|        61          |  12 |   RUNNING   |  WAITING    |
+|        66          |  12 |   WAITING   |  READY      |
+|        66          |  12 |   READY     |  RUNNING    |
+|        76          |  12 |   RUNNING   |  WAITING    |
+|        81          |  12 |   WAITING   |  READY      |
+|        81          |  12 |   READY     |  RUNNING    |
+|        91          |  12 |   RUNNING   |  TERMINATED |
++------------------------------------------------------+
